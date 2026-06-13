@@ -1,0 +1,19 @@
+# 大数据文件（超过100MB，不能提交到GitHub）
+Data_managemengt/data_tushare/a_stock_data.db
+Data_managemengt/data_tushare/stock_data.csv
+Data_managemengt/data_tushare/stock_data_tushare_tradable.csv
+Data_managemengt/data_tushare/stock_data_tushare_wide.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+*.egg
+
+# Benchmark 运行输出
+benchmark_runs/
+
+# OS
+.DS_Store
+Thumbs.db
